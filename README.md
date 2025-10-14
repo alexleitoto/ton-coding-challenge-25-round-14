@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Telegram-Userbot-2865274bd2cf80d887eeed93d22cc5e8?source=copy_link
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @chargebackoff
+2. 你的主网 TON 钱包地址 = UQDkYCBG1mW7nMCJVaCBKd6X66ZzZyiyXUgAKbHkIKlwzYiv
 
 
 ## 任务 1：使用其他语言的框架实现 Userbot
@@ -28,7 +28,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的Userbot程序入口文件名称= ？
+1. 你的Userbot程序入口文件名称= mastodon_userbot.py
 
 
 
